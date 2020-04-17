@@ -7,6 +7,8 @@ Candidate stone locations are detected but currently it is missing uniform grid 
 
 ## Some output examples
 
+![Debug data](docs/debug_0.png)
+
 ![Empty board](docs/board_0.png)
 
 
